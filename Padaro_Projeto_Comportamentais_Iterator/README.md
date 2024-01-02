@@ -1,0 +1,2 @@
+# Padaro_Projeto_Comportamentais_Iterator
+ padrao projeto comportamental
